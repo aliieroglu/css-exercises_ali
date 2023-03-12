@@ -1,8 +1,12 @@
+
+/* STARTS OF HEADER */ 
 .nav_bar{
     background-color: purple;
     display: flex;
     width: auto;
-    border: 2px solid blue;
+    border: 5px solid blue;
+    gap: 8px;
+    padding: 14px;
 }
 .nav_bar div{
     background-color: peachpuff;
@@ -10,22 +14,37 @@
     flex: 1;
 }
 
-/* HEADER PART > MİDDLE SECTİON */
+/* HEADER PART and MİDDLE SECTİON */
+.one{
+    display: flex;
+    border: 5px solid darkgoldenrod;
+}
+
 .two{
     display: flex;
     border: 5px solid darkgoldenrod;
 }
 
+.three{
+    display: flex;
+    border: 5px solid darkgoldenrod;
+}
+
+/* MİDDLE SECTİON'S ELEMENT */
 .two .child_one{
     background-color: #ee6f50;
     border: 3px solid rgb(197, 20, 20);
+    height: auto;
+    margin: 4px;
 }
 .two .child_two{
     background-color: #ee6f50;
     border: 3px solid rgb(197, 20, 20);
+    height: auto;
+    margin: 4px;
 }
 
-
+/* END OF HEADER */ 
 
 
 
