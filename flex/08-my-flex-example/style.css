@@ -1,5 +1,5 @@
 
-/* STARTS OF HEADER */ 
+/* BEGINNING OF HEADER */ 
 .nav_bar{
     background-color: purple;
     display: flex;
@@ -47,7 +47,7 @@
 /* END OF HEADER */ 
 
 
-/* STARTS OF CONTENT SECTİON */
+/* BEGINNING OF CONTENT SECTİON */
 
 .uni_cont{
     margin-top: 32px;
@@ -77,3 +77,7 @@
 .right_cont_2{
     margin: 8px;
 }
+
+/* END OF CONTENT SECTİON */
+
+/* BEGINNING OF FOOTER SECTİON
