@@ -1,0 +1,33 @@
+.nav_bar{
+    background-color: purple;
+    display: flex;
+    width: auto;
+    border: 2px solid blue;
+}
+.nav_bar div{
+    background-color: peachpuff;
+    height: 100px;
+    flex: 1;
+}
+
+/* HEADER PART > MİDDLE SECTİON */
+.two{
+    display: flex;
+    border: 5px solid darkgoldenrod;
+}
+
+.two .child_one{
+    background-color: #ee6f50;
+    border: 3px solid rgb(197, 20, 20);
+}
+.two .child_two{
+    background-color: #ee6f50;
+    border: 3px solid rgb(197, 20, 20);
+}
+
+
+
+
+
+
+
